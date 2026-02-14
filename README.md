@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Tiwari</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Java | AI/ML | Full Stack Developer</h3>
+<h3 align="center">🚀 CS UnderGrad Student  | Java | AI/ML | Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=YOUR_USERNAME">
@@ -15,7 +15,7 @@
 - 🔭 Currently building **Real-world Full Stack + AI Projects**
 - 🌱 Learning **DSA in Java, System Design, Spring Boot**
 - 💡 Interested in **AI, Backend Engineering & Scalable Systems**
-- ⚡ Fun fact: *I fight procrastination daily and still win 😄*
+- ⚡ Fun fact: *I fight procrastination daily  *
 
 ---
 
@@ -54,10 +54,6 @@
 - AI-based health suggestions system
 - NLP + ML integration
 
-### 💻 Online Code Compiler
-- Built using **Spring Boot + Docker**
-- Supports multiple languages
-
 ### 🎧 Spotify Clone
 - React-based UI
 - Real-time music player features
@@ -67,8 +63,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iamabhipandat&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamabhipandat&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -76,15 +72,7 @@
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Iamabhipandat/Iamabhipandat/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamabhipandat&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
