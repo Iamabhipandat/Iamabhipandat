@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Tiwari</h1>
-<h3 align="center">🚀 CS UnderGrad Student  | Java | AI/ML | Full Stack Developer</h3>
+<h3 align="center">🚀 CS UnderGrad Student  | Java | AI/ML | Backend Developer</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=YOUR_USERNAME">
@@ -69,10 +69,11 @@
 
 ---
 
-## 📊 Most Used Languages
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamabhipandat&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Iamabhiapndat&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamabhiapndat&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -86,8 +87,4 @@
 
 ---
 
-## 💡 Quote
 
-> “Consistency beats talent when talent doesn’t work hard.”
-
----
