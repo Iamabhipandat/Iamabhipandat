@@ -50,15 +50,7 @@
 
 ## 📌 Featured Projects
 
-### 🧠 AI Personal Health Assistant
-- AI-based health suggestions system
-- NLP + ML integration
 
-### 🎧 Spotify Clone
-- React-based UI
-- Real-time music player features
-
----
 
 ## 📈 GitHub Stats
 
