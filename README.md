@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhinav Tiwari</h1>
 <h3 align="center">🚀 CS UnderGrad Student  | Java | AI/ML | Backend Developer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=YOUR_USERNAME">
     <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
   </a>
 </p>
 
----
+--- -->
 
 ## 🧑‍💻 About Me
 
